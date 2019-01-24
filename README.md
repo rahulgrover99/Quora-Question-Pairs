@@ -21,3 +21,4 @@ We aim to develop machine learning and natural language processing systems to au
 
 #### Requirements:
 Dataset used for the project is available on [Training DataSet](http://qim.fs.quoracdn.net/quora_duplicate_questions.tsv) (released by Quora itself). It consists of over 400,000 lines of potential question duplicate pairs. Each line contains IDs for each question in the pair, the full text for each question, and a binary value that indicates whether the line truly contains a duplicate pair.
+[Drive Link of Dataset](https://drive.google.com/open?id=1I5f8u0-y6ZQVdnfmI0yoBvoMAPHZkDQG)
